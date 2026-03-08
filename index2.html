@@ -1,0 +1,64 @@
+# Aruna K — Site Reliability Engineer Portfolio
+
+> Personal SRE portfolio website showcasing 3+ years of experience at WEX Inc., Auckland, NZ.
+
+---
+
+## 🚀 Live Demo
+
+Open `aruna-k-portfolio.html` in any modern browser — no build step required.
+
+---
+
+## 📁 Project Structure
+
+```
+aruna-k-portfolio/
+│
+├── aruna-k-portfolio.html   # Single-file portfolio (HTML + CSS + JS)
+└── README.md                # This file
+```
+
+---
+
+## 🛠️ Tech Stack Covered in Portfolio
+
+| Domain | Tools & Technologies |
+|---|---|
+| **Cloud & Infra** | AWS (EC2, EKS, RDS, S3), GCP, Azure, Terraform |
+| **Containers** | Kubernetes, Docker, Helm, Kustomize, ArgoCD |
+| **Observability** | Datadog, Prometheus, Grafana, PagerDuty |
+| **CI/CD** | GitHub Actions, Jenkins, Tekton, LaunchDarkly |
+| **Scripting** | Python, Bash |
+
+---
+
+## ✏️ How to Customise
+
+1. Open `aruna-k-portfolio.html` in a text editor
+2. Search for the following placeholders and replace with your real details:
+
+| Placeholder | Location | Replace With |
+|---|---|---|
+| `linkedin.com/in/aruna-k` | Contact section | Your LinkedIn URL |
+| `github.com/aruna-k` | Contact section | Your GitHub URL |
+| Certification badges | Experience section | Your actual certs |
+| Project metrics (60%, 82%, etc.) | Projects section | Your real impact numbers |
+
+---
+
+## 📬 Contact
+
+**Aruna K**  
+Site Reliability Engineer  
+Auckland, New Zealand  
+WEX Inc.
+
+- LinkedIn: [linkedin.com/in/aruna-k](https://linkedin.com/in/aruna-k)
+- GitHub: [github.com/aruna-k](https://github.com/aruna-k)
+
+---
+
+## 📄 License
+
+This portfolio is for personal use. Feel free to adapt the structure for your own SRE portfolio.
